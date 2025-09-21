@@ -5,37 +5,37 @@ This repository is a collection of my cybersecurity writeups, documenting challe
 
 Contents
 
-CTF Challenges – Writeups from various competitions and practice platforms.
+- CTF Challenges – Writeups from various competitions and practice platforms.
 
-VulnHub Machines – Step-by-step walkthroughs of vulnerable machines.
+- VulnHub Machines – Step-by-step walkthroughs of vulnerable machines.
 
-Penetration Testing Labs – Notes and solutions from practice environments.
+- Penetration Testing Labs – Notes and solutions from practice environments.
 
-Miscellaneous – Other security-related writeups and research notes.
+- Miscellaneous – Other security-related writeups and research notes.
 
 Structure
 
 Each writeup is organized into its own directory or file, typically containing:
 
-Challenge or machine name
+- Challenge or machine name
 
-Description and objectives
+- Description and objectives
 
-Detailed methodology and thought process
+- Detailed methodology and thought process
 
-Commands, scripts, or payloads used
+- Commands, scripts, or payloads used
 
-Explanations of vulnerabilities and exploitation techniques
+- Explanations of vulnerabilities and exploitation techniques
 
-Key takeaways and lessons learned
+- Key takeaways and lessons learned
 
 Purpose
 
 This repository serves two goals:
 
-To track and document my own progress in cybersecurity.
+1. To track and document my own progress in cybersecurity.
 
-To share knowledge and techniques that may help others learn, practice, and improve.
+2. To share knowledge and techniques that may help others learn, practice, and improve.
 
 Disclaimer
 
